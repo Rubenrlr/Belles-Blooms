@@ -1,1 +1,27 @@
+# macOS system files
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# vscode settings
+.vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Eclipse files
+.project
+.classpath
+
+# Maven or Gradle generated files if we use this
+target/
+
+build/
+.gradle/
